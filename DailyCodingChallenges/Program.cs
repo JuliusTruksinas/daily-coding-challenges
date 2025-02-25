@@ -7,6 +7,7 @@ namespace DailyCodingChallenges
         public static void Main(string[] args)
         {
             // Isograms.Run();
+            // ExesAndOhs.Run();
         }
     }
 }
