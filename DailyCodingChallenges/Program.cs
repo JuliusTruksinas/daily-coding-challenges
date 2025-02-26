@@ -8,6 +8,7 @@ namespace DailyCodingChallenges
         {
             // Isograms.Run();
             // ExesAndOhs.Run();
+            // TwoSum.Run();
         }
     }
 }
